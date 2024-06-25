@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-taught+Software+Developer;Background+as+a+Civil+Engineer;Active+Learner%2FResearcher" alt="Typing SVG" /></a>
 </p>
-
-<br>
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -23,55 +21,42 @@ I'm a Software developer with +3 years of experience working on web and mobile t
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
-<br>
 
 <p align="center">
 
 <h3>Frontend</h3>
   
 * TypeScript
-  
 * Angular
-
 * Ionic
 
 <h3>Backend</h3>
   
 * NodeJS
-  
 * Express
 
 <h3>Databases</h3>
 
 * PostgreSQL
-
 * Firestore
 
 <h3>Tools</h3>
 
 * Terminal
-
 * Git
-
 * AWS
   
 </p>
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
-
   <a href="https://github.com/luisguzmanM/">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisguzmanM&theme=github_dark"/>
   </a>
-  
 </div>
 
-<br>
 <br>
 
 <b>Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
