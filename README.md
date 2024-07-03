@@ -16,7 +16,7 @@
 
 <br>
 
-I'm a Software developer with +3 years of experience working on web and mobile technologies. I started working as frontend developer but now I'm working as a full-stack developer.
+I'm Web/Mobile JavaScript developer. Experience with Angular, Ionic, NodeJS, Express and PostgresSQL as a database administrator
 
 <br>
 
