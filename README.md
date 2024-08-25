@@ -69,9 +69,5 @@ I'm Web/Mobile JavaScript developer. Experience with Angular, Ionic, NodeJS, Exp
       <b>LinkedIn:</b> 
       <a href="https://www.linkedin.com/in/luisalfredoguzman/" target="_blank">Luis Alfredo Guzman</a>
     </li>
-    <li>
-      <b>Twitter:</b> 
-      <a href="https://x.com/guzmanluis_lg" target="_blank">@guzmanluis_lg</a>
-    </li>
   </ul>
 </div>
