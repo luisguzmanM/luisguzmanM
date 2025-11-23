@@ -16,7 +16,7 @@
 
 <br>
 
-I'm Web/Mobile JavaScript developer. Experience with Angular, Ionic, NodeJS, Express and PostgresSQL as a database administrator
+Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Express, PostgreSQL, and AWS. In my free time, I build Fitnimal, a Kotlin + Jetpack Compose side project for generating personalized muscle-training routines.
 
 <br>
 
@@ -24,11 +24,16 @@ I'm Web/Mobile JavaScript developer. Experience with Angular, Ionic, NodeJS, Exp
 
 <p align="center">
 
-<h3>Frontend</h3>
-  
+<h3>Programming languages</h3>
+
 * TypeScript
+* Kotlin
+
+<h3>Frontend</h3>
+
+* HTML5/CSS3/JavaScript
 * Angular
-* Ionic
+* React
 
 <h3>Backend</h3>
   
@@ -38,13 +43,19 @@ I'm Web/Mobile JavaScript developer. Experience with Angular, Ionic, NodeJS, Exp
 <h3>Databases</h3>
 
 * PostgreSQL
-* Firestore
+* MongoDB
+
+<h3>Mobile</h3>
+
+* Native Android development with Jetpack Compose
+* React Native
+* Ionic v7
 
 <h3>Tools</h3>
 
 * Terminal
 * Git
-* AWS
+* AWS (S3, CloudWatch)
   
 </p>
 
