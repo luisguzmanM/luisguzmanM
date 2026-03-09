@@ -44,6 +44,7 @@ Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Expr
 
 * PostgreSQL
 * MongoDB
+* Redis (Caching)
 
 <h3>Mobile</h3>
 
@@ -55,7 +56,7 @@ Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Expr
 
 * Terminal
 * Git
-* AWS (S3, CloudWatch)
+* AWS (Lambda, S3, CloudWatch)
   
 </p>
 
