@@ -20,8 +20,6 @@ Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Expr
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
-
 <p align="center">
 
 <h3>Programming languages</h3>
