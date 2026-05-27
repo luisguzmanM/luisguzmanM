@@ -12,8 +12,6 @@
 	
 **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Express, PostgreSQL, and AWS. In my free time, I build Fitnimal, a Kotlin + Jetpack Compose side project for generating personalized muscle-training routines.
