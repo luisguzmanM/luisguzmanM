@@ -46,9 +46,9 @@ Web/Mobile Software Developer working daily with TypeScript, Angular, Node, Expr
 
 <h3>Mobile</h3>
 
-* Native Android development with Jetpack Compose
+* Native Android development
 * React Native
-* Ionic v7
+* Ionic
 
 <h3>Tools</h3>
 
